@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  TableViewDemo2
 //
-//  Created by Puspank Kumar on 10/01/19.
+//  Created by Pushpank Kumar on 10/01/19.
 //  Copyright © 2019 Puspank Kumar. All rights reserved.
 //
 
